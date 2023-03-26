@@ -1,6 +1,8 @@
 <p>
-Designed and developed using Java OOP and Java Swing. 
-The system was capable of managing various aspects of the college, 
-such as student records, teacher information, and management.
-<p>
-<b>Key Skills: Java OOP, Java Swing, User Interface Design</b>
+A Leave Manager application using Java. Implemented data structures such as
+Linked List, Stack, and Queue to efficiently manage employee leave requests.
+The project required a deep understanding of these data structures and their applications,
+which was achieved through self-implementation.
+</p>
+
+<b>Key Skills: Java, Data Structures (Linked List, Stack, Queue)</b>
